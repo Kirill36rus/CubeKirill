@@ -1,0 +1,6 @@
+C:\Users\Сергей\Desktop\Программирование\CubeForKirill\CubeForKirill\UtilsForCube\obj\Debug\UtilsForCube.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Программирование\CubeForKirill\CubeForKirill\UtilsForCube\obj\Debug\UtilsForCube.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Программирование\CubeForKirill\CubeForKirill\UtilsForCube\bin\Debug\UtilsForCube.dll
+C:\Users\Сергей\Desktop\Программирование\CubeForKirill\CubeForKirill\UtilsForCube\bin\Debug\UtilsForCube.pdb
+C:\Users\Сергей\Desktop\Программирование\CubeForKirill\CubeForKirill\UtilsForCube\obj\Debug\UtilsForCube.dll
+C:\Users\Сергей\Desktop\Программирование\CubeForKirill\CubeForKirill\UtilsForCube\obj\Debug\UtilsForCube.pdb
